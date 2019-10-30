@@ -1,0 +1,3 @@
+for reading file please write 'crud read' than 'filename .format'.
+for writing file please write 'crud write' than 'filename .format' after that write content of text
+for deleting file please write 'crud delete' than 'filename .format'.
